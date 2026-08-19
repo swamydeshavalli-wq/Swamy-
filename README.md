@@ -1,2 +1,1 @@
-# Swamy-
-always be happy 
+# Swamythis is my firt repository 
